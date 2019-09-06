@@ -1,0 +1,22 @@
+{
+  "name": "react-native-talk-balloon",
+  "version": "1.0.0",
+  "description": "React Native Talk Balloon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: This Project not have tests.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duduzera1997/react-native-talk-balloon.git"
+  },
+  "author": "@Duduzera1997",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Duduzera1997/react-native-talk-balloon/issues"
+  },
+  "homepage": "https://github.com/Duduzera1997/react-native-talk-balloon#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
