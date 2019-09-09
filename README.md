@@ -6,7 +6,7 @@ This is a component of talk balloons for React Native.
 [![N|Solid](https://img.shields.io/badge/release-v1.0-blue.svg)](https://nodesource.com/products/nsolid)
 
 ## Install
-### `npm -i react-native-talk-balloon`
+### `npm -i react-native-talk-balloon` or `yarn add react-native-talk-balloon`
 
 ## How to use
 ```javascript
