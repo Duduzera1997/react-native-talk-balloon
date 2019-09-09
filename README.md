@@ -35,13 +35,14 @@ import TalkBalloon from "react-native-talk-balloon";
 |**`triangleSize`**|  `number`|`10` |set the triangle size |
 |**`borderColor`**| `string`| `#000000` |color of border|
 |**`borderWidth`**|  `number`| `1` |width of border|
-|**`containerStyle`**| `object`| `none` |set the style of balloon container. |
+|**`containerStyle`**| `object`| `null` |set the style of balloon container. |
 |**`onPress`**| `function`| `null` |triggered on pressed the talk balloon.|
 |**`onLongPress`**|  `function`| `null` |triggered on long pressed talk balloon.|
 |**`borderRadius`**| `number`| `10` |radius of border|
 |**`backgroundColor`**| `string`| `#FFFFFF` |color of background|
 |**`width`**| `number`| `300` |width of talk balloon|
-|**`height`**| `number`| `none` |height of talk balloon|
+|**`height`**| `number`| `50` |height of talk balloon|
+|**`children`**| `node`| `<View />` |Content of `<TalkBalloon />`|
 
 ## Credits
 This component is an improvement of the code from [react-native-balloon](https://github.com/takahi5/react-native-balloon "react-native-balloon"), so I leave the creation credits to its creator.
